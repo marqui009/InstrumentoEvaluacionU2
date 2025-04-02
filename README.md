@@ -30,11 +30,7 @@ Videos que muestran la conexión de sensores/actuadores
 | 23 | KY- | [Ver video]() |  |
 | 24 | KY- | [Ver video]() |  |
 | 25 | KY- | [Ver video]() |  |
-| 26 | KY- | [Ver video]() |  |
-| 27 | KY- | [Ver video]() |  |
-| 28 | KY- | [Ver video]() |  |
-| 29 | KY- | [Ver video]() |  |
-| 30 | KY- | [Ver video]() |  |
+
 
 ## Ejercicio de soldadura
 
